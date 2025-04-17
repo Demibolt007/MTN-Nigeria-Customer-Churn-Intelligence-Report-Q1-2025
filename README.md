@@ -89,4 +89,4 @@ Feel free to fork, contribute, or open issues to suggest improvements.
 
 ## 💬 Contact
 
-For any inquiries or feedback, please reach out to me via [Email](adeniyioluwademilade@gmail.com).
+For any inquiries or feedback, please reach out to me via [Email](mailto:adeniyioluwademilade@gmail.com).
