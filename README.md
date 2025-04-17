@@ -83,12 +83,10 @@ This project highlights how custom datasets and simple analytical tools like Exc
 
 This project is maintained by **Oluwademilade Adeniyi**, a data analyst focused on business intelligence, customer insights, and storytelling through data.
 
-Special thanks to **ChatGPT by OpenAI** for guidance throughout the analysis journey.
-
 Feel free to fork, contribute, or open issues to suggest improvements.
 
 ---
 
 ## 💬 Contact
 
-For any inquiries or feedback, please reach out to me via the [Email](mailto:adeniyioluwademilade@gmail.com).
+For any inquiries or feedback, please reach out to me via [Email](https://github.com/Demibolt007/MTN-Nigeria-Customer-Churn-Intelligence-Report-Q1-2025/blob/main/adeniyioluwademilade@gmail.com).
