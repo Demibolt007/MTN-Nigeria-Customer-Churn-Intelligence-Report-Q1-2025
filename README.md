@@ -1,5 +1,6 @@
 # 📊 MTN Nigeria Customer Churn Intelligence Report – Q1 2025
 
+
 ![image](https://github.com/user-attachments/assets/f55a0e26-3aff-4de8-91ce-f43dfe8bcc64)
 
 
@@ -80,7 +81,7 @@ This project highlights how custom datasets and simple analytical tools like Exc
 
 ## 👥 Who Maintains and Contributes to the Project
 
-This project is maintained by **[Your Name]**, a data analyst focused on business intelligence, customer insights, and storytelling through data.
+This project is maintained by **Oluwademilade Adeniyi**, a data analyst focused on business intelligence, customer insights, and storytelling through data.
 
 Special thanks to **ChatGPT by OpenAI** for guidance throughout the analysis journey.
 
@@ -90,4 +91,4 @@ Feel free to fork, contribute, or open issues to suggest improvements.
 
 ## 💬 Contact
 
-For any inquiries or feedback, please reach out to me via the [GitHub Issues page](https://github.com/Demibolt007/MTN-Nigeria-Customer-Churn-Intelligence-Report-Q1-2025/issues).
+For any inquiries or feedback, please reach out to me via the [Email](mailto:adeniyioluwademilade@gmail.com).
